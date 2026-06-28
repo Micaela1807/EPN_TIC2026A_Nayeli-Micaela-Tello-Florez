@@ -33,7 +33,7 @@ mlflow.set_experiment("Aprendizaje_Centralizado_Deteccion_Placas")
 # SECCIÓN: CONFIGURACIÓN DE ENTRENAMIENTO
 # ==========================
 # Ruta donde se encuentra el dataset centralizado (combina datos de todos los clientes)
-DATASET_PATH = r"K:\Escritorio\TIC\dataset\Dataset_centralizado"
+DATASET_PATH = r"path"
 
 # Dimensiones de las imágenes (alto, ancho) que espera el modelo
 IMG_SIZE = (224, 224)
