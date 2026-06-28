@@ -20,6 +20,23 @@ Repositorio que contiene los scripts en Python para la ejecución y análisis de
 └── README.md                 # Este archivo
 ```
 
+### 🔍 Descripción de Componentes
+
+**Escenarios (Escenario 1-6):**
+- Cada carpeta contiene scripts para un escenario diferente de pruebas de estrés
+- Incluyen componentes cliente-servidor para simular y medir el rendimiento
+- Los datos se recopilan para análisis posterior
+
+**Scripts Preprocesamiento Dataset:**
+- `preparar_datos.py`: Orquestación general de preparación de datos
+- `preprocesar_xml.py`: Transforma archivos XML a formato procesable
+- `preprocesar_yolo.py`: Convierte datos al formato YOLO para detección de objetos
+
+**Graficas de Resultados:**
+- 9 visualizaciones PNG que muestran métricas de rendimiento
+- Métricas de sistema: CPU y RAM (Cliente 1, Cliente 2, Servidor)
+- Métricas de modelo: Accuracy, Precisión, F1-Score
+  
 ## 🛠️ Requisitos
 
 - Python 3.x
