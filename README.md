@@ -1,6 +1,6 @@
 # EPN_TIC2026A_Nayeli-Micaela-Tello-Florez
 
-Este es un repositorio donde se encuentran los scripts correspondientes a todos los escenarios de pruebas de estrés de mi TIC (Trabajo de Integración Curricular).
+Este es un repositorio donde se encuentran los scripts correspondientes a todos los escenarios de pruebas de estrés de mi Trabajo de Integración Curricular.
 
 ## 📋 Descripción del Proyecto
 
@@ -45,12 +45,5 @@ Los scripts para el preprocesamiento y preparación del dataset se encuentran en
 
 ## 👤 Autor
 
-Nayeli Micaela Tello Flórez
+Nayeli Micaela Tello Florez
 
-## 📝 Licencia
-
-Especifica la licencia del proyecto (si aplica)
-
----
-
-**Nota:** Este es un trabajo académico del programa de TIC en EPN.
