@@ -6,7 +6,7 @@
 # Escenario: Aprendizaje Centralizado
 #
 # Descripción:
-# Este script implementa un servidor centralizado para un escenario de aprendizaje centralizado, donde todos los datos están disponibles en un solo lugar y se entrena un único modelo.
+# Este script implementa un servidor para un escenario de aprendizaje centralizado, donde todos los datos están disponibles en un solo lugar y se entrena un único modelo.
 # ============================================================
 
 
